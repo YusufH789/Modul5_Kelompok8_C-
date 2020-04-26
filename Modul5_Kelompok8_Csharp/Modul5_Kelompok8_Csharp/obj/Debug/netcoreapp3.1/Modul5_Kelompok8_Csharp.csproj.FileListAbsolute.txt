@@ -1,0 +1,13 @@
+D:\Coolyeah\Praktikum DKP\Modul5_Kelompok8_C#\Modul5_Kelompok8_Csharp\Modul5_Kelompok8_Csharp\bin\Debug\netcoreapp3.1\Modul5_Kelompok8_Csharp.exe
+D:\Coolyeah\Praktikum DKP\Modul5_Kelompok8_C#\Modul5_Kelompok8_Csharp\Modul5_Kelompok8_Csharp\bin\Debug\netcoreapp3.1\Modul5_Kelompok8_Csharp.deps.json
+D:\Coolyeah\Praktikum DKP\Modul5_Kelompok8_C#\Modul5_Kelompok8_Csharp\Modul5_Kelompok8_Csharp\bin\Debug\netcoreapp3.1\Modul5_Kelompok8_Csharp.runtimeconfig.json
+D:\Coolyeah\Praktikum DKP\Modul5_Kelompok8_C#\Modul5_Kelompok8_Csharp\Modul5_Kelompok8_Csharp\bin\Debug\netcoreapp3.1\Modul5_Kelompok8_Csharp.runtimeconfig.dev.json
+D:\Coolyeah\Praktikum DKP\Modul5_Kelompok8_C#\Modul5_Kelompok8_Csharp\Modul5_Kelompok8_Csharp\bin\Debug\netcoreapp3.1\Modul5_Kelompok8_Csharp.dll
+D:\Coolyeah\Praktikum DKP\Modul5_Kelompok8_C#\Modul5_Kelompok8_Csharp\Modul5_Kelompok8_Csharp\bin\Debug\netcoreapp3.1\Modul5_Kelompok8_Csharp.pdb
+D:\Coolyeah\Praktikum DKP\Modul5_Kelompok8_C#\Modul5_Kelompok8_Csharp\Modul5_Kelompok8_Csharp\obj\Debug\netcoreapp3.1\Modul5_Kelompok8_Csharp.csprojAssemblyReference.cache
+D:\Coolyeah\Praktikum DKP\Modul5_Kelompok8_C#\Modul5_Kelompok8_Csharp\Modul5_Kelompok8_Csharp\obj\Debug\netcoreapp3.1\Modul5_Kelompok8_Csharp.csproj.CoreCompileInputs.cache
+D:\Coolyeah\Praktikum DKP\Modul5_Kelompok8_C#\Modul5_Kelompok8_Csharp\Modul5_Kelompok8_Csharp\obj\Debug\netcoreapp3.1\Modul5_Kelompok8_Csharp.AssemblyInfoInputs.cache
+D:\Coolyeah\Praktikum DKP\Modul5_Kelompok8_C#\Modul5_Kelompok8_Csharp\Modul5_Kelompok8_Csharp\obj\Debug\netcoreapp3.1\Modul5_Kelompok8_Csharp.AssemblyInfo.cs
+D:\Coolyeah\Praktikum DKP\Modul5_Kelompok8_C#\Modul5_Kelompok8_Csharp\Modul5_Kelompok8_Csharp\obj\Debug\netcoreapp3.1\Modul5_Kelompok8_Csharp.dll
+D:\Coolyeah\Praktikum DKP\Modul5_Kelompok8_C#\Modul5_Kelompok8_Csharp\Modul5_Kelompok8_Csharp\obj\Debug\netcoreapp3.1\Modul5_Kelompok8_Csharp.pdb
+D:\Coolyeah\Praktikum DKP\Modul5_Kelompok8_C#\Modul5_Kelompok8_Csharp\Modul5_Kelompok8_Csharp\obj\Debug\netcoreapp3.1\Modul5_Kelompok8_Csharp.genruntimeconfig.cache

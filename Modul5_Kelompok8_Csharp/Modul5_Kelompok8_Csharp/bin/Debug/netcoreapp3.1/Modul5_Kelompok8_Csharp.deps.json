@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Modul5_Kelompok8_Csharp/1.0.0": {
+        "runtime": {
+          "Modul5_Kelompok8_Csharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Modul5_Kelompok8_Csharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
